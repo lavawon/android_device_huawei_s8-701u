@@ -17,4 +17,4 @@ Battery | 4800 mAh
 Display | 8.0 inches, 800 x 1280 pixels
 Camera  | 5 MP
 
-![Motorola E](https://camo.githubusercontent.com/65db99a8598e2e96a3b1e88f76020559ac23618c/687474703a2f2f63646e322e67736d6172656e612e636f6d2f76762f6269677069632f6d6f746f726f6c612d6d6f746f2d652e6a7067 "Motorola E")
+![Huawei MediaPad T1 8.0](http://cdn2.gsmarena.com/vv/pics/huawei/huawei-honor-tablet-1.jpg "Huawei MediaPad T1 8.0")
